@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**xaviicia/xaviicia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+	<p>
+		<img src = "https://readme-typing-svg.herokuapp.com?duration=2500&size=26&color=20C20E&center=true&lines=Hey,+I'm+Valensce!">
+	</p>
+	<p>
+		<img src="https://profile-counter.glitch.me/valensce/count.svg">
+	</p>
+	<hr>
+<img align="center" href="https://github.com/Valensce" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><hr>
+</div>
